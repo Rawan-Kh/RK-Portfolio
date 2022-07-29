@@ -1,9 +1,9 @@
-import img1 from './assets/forkify.png'
-import img2 from './assets/mapty.png'
-import img3 from './assets/Pig-Game.png'
-import img4 from './assets/omnifood.png'
-import img5 from './assets/omnifood.png'
-import img6 from './assets/omnifood.png'
+import img1 from './assets/Omnifood.png'
+import img2 from './assets/Pig-Game.png'
+import img3 from './assets/BankistApp.png'
+import img4 from './assets/BankistWeb.png'
+import img5 from './assets/CountryApi.png'
+import img6 from './assets/GuessingGame.png'
 
 const header = {
   homepage: 'https://',
