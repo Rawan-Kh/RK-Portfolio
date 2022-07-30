@@ -58,7 +58,7 @@ const projects = [
       'A website design with amazing functionalities',
     stack: ['Html', 'css', 'Javascript'],
     sourceCode: 'https://github.com/Rawan-Kh/Kalbonyan-Elmarsos/tree/main/2-udemy/2-Js/projects/BankistWebsite',
-    livePreview: 'https://https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/2-Js/projects/BankistWebsite/',
+    livePreview: 'https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/2-Js/projects/BankistWebsite/',
   },{
     img:img5,
     name: 'Countries n Neighbours',
@@ -66,7 +66,7 @@ const projects = [
       'A fetching countries information and the neighbouring Api',
     stack: ['Html', 'Js', 'FetchApi'],
     sourceCode: 'https://github.com/Rawan-Kh/Kalbonyan-Elmarsos/tree/main/2-udemy/2-Js/projects/CountryApi',
-    livePreview: 'https://https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/2-Js/projects/CountryApi/',
+    livePreview: 'https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/2-Js/projects/CountryApi/',
   },
   {
     img:img6,
@@ -75,7 +75,7 @@ const projects = [
       'A simple js guessing game',
     stack: ['Html', 'css', 'Javascript'],
     sourceCode: 'https://github.com/Rawan-Kh/Kalbonyan-Elmarsos/tree/main/2-udemy/2-Js/projects/GuessingGame',
-    livePreview: 'https://https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/2-Js/projects/GuessingGame/',
+    livePreview: 'https://rawan-kh.github.io/Kalbonyan-Elmarsos/2-udemy/2-Js/projects/GuessingGame/',
   },
 ]
 
