@@ -1,4 +1,4 @@
-import img1 from './assets/Omnifood.png'
+import img1 from './assets/omnifood.png'
 import img2 from './assets/Pig-Game.png'
 import img3 from './assets/bankist.png'
 import img4 from './assets/bankist-website.png'
