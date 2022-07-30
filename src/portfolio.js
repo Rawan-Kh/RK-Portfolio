@@ -3,7 +3,7 @@ import img2 from './assets/Pig-Game.png'
 import img3 from './assets/bankist.png'
 import img4 from './assets/bankist-website.png'
 import img5 from './assets/CountryApi.png'
-import img6 from './assets/Guessing-game.png'
+import img6 from './assets/Gueesing-game.png'
 
 const header = {
   homepage: 'https://',
