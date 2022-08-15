@@ -89,9 +89,7 @@ const skills = [
   'SASS',
   'Material UI',
   'Git',
-  'CI/CD',
   'Jest',
-  'Enzyme',
 ]
 
 const contact = {
